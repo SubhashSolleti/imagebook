@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ImgBook/static/css/main.cfe6311a.css",
+    "main.js": "/ImgBook/static/js/main.b53338c0.js",
+    "static/media/film.png": "/ImgBook/static/media/film.32edfdab0ddab5cee638.png",
+    "static/media/logo1.png": "/ImgBook/static/media/logo1.8047d67c8e9104d27091.png",
+    "index.html": "/ImgBook/index.html",
+    "main.cfe6311a.css.map": "/ImgBook/static/css/main.cfe6311a.css.map",
+    "main.b53338c0.js.map": "/ImgBook/static/js/main.b53338c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfe6311a.css",
+    "static/js/main.b53338c0.js"
+  ]
+}
